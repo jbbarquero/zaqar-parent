@@ -13,6 +13,7 @@
 	<modules>
 		<module>zaqar-configuration-service</module>
 		<module>zaqar-configuration-client</module>
+		<module>zaqar-eureka-service</module>
 	</modules>
 
 </project>
