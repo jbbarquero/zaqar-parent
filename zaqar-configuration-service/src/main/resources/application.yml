@@ -1,9 +1,13 @@
 server:
   port: 8888
 
+# http://projects.spring.io/spring-cloud/docs/1.0.3/spring-cloud.html#_environment_repository
+# Git Backend
+# See also javadoc of MultipleJGitEnvironmentRepository (searchPaths is in its super-super-parent AbstractScmAccessor)
 spring:
   cloud:
     config:
       server:
         git :
-          uri: https://github.com/jbbarquero/zaqar-parent/zaqar-configuration
+          uri: https://github.com/jbbarquero/zaqar-parent
+          searchPaths: zaqar-configuration

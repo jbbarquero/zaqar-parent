@@ -1,0 +1,1 @@
+Spring Boot Common application properties: http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#common-application-properties

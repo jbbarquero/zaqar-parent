@@ -12,6 +12,7 @@
 
 	<modules>
 		<module>zaqar-configuration-service</module>
+		<module>zaqar-configuration-client</module>
 	</modules>
 
 </project>
