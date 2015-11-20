@@ -1,1 +1,3 @@
 Spring Boot Common application properties: http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#common-application-properties
+
+Dependency versions: http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#appendix-dependency-versions
