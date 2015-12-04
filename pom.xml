@@ -15,6 +15,7 @@
 		<module>zaqar-configuration-client</module>
 		<module>zaqar-eureka-service</module>
 		<module>zaqar-event-receiver</module>
+		<module>zaqar-alert-generator</module>
 	</modules>
 
 </project>
